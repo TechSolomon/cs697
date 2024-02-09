@@ -1,0 +1,2 @@
+- The study of meanings of words and sentences in a larger social context.
+	- [[Introspection]] vs. "correct" language

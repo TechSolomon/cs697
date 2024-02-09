@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "f17e819d235c1784",
+        "id": "0c94a80b55cf21cf",
         "type": "tabs",
         "children": [
           {
-            "id": "353d5132b8c4f386",
+            "id": "55fbdb0a417004d9",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -138,9 +138,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "353d5132b8c4f386",
+  "active": "55fbdb0a417004d9",
   "lastOpenFiles": [
+    "Morphology.md",
+    "Large Language Models.md",
+    "Natural Language.md",
+    "Related Readings.md",
+    "Pragmatics.md",
+    "Crash Course – Linguistics.md",
+    "Syntax.md",
+    "Stochastic Parrots.md",
+    "Lexical Analysis.md",
     "Machine Translation.md",
+    "Semantics.md",
     "Welcome.md"
   ]
 }
