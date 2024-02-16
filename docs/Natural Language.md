@@ -1,0 +1,4 @@
+- Grammar / syntax
+	- https://web.stanford.edu/class/archive/cs/cs103/cs103.1142/lectures/28/Small28.pdf
+- [[Stochastic Parrots]]
+	- Markov assumption / property
