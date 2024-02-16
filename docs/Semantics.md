@@ -1,1 +1,1 @@
-- The study of meaning of words  and sentences.
+- The study of meaning of words and sentences.
