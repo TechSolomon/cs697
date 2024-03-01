@@ -9,6 +9,7 @@ numpy = "*"
 torch = "*"
 torchvision = "*"
 torchaudio = "*"
+tensorflow = "*"
 
 [dev-packages]
 llm = "*"
