@@ -4,8 +4,18 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+pyfoma = "*"
+numpy = "*"
+torch = "*"
+torchvision = "*"
+torchaudio = "*"
 
 [dev-packages]
+llm = "*"
+black = "*"
+graphviz = "*"
+ipykernel = "*"
+sentencepiece = "*"
 
 [requires]
 python_version = "3.11"
